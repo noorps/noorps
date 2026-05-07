@@ -1,16 +1,18 @@
-## Hi there 👋
+# hey, i'm purnoor!
 
-<!--
-**noorps/noorps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# i'm a CS student at UT Austin that likes connecting data to stories
 
-Here are some ideas to get you started:
+## what i'm working on
+- 🤖 **auto job applier** — tired of clicking Apply 500 times, so i'm automating it  
+- 🦀 **toy OS kernel in Rust** — learning low-level from absolute zero  
+- 📍 **UT study spot tracker** — real-time map of open spots on campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i've built
+- 📊 [glassdoor-sentiment-alpha](https://github.com/noorps/glassdoor-sentiment-alpha) — scraped Glassdoor reviews, ran NLP sentiment analysis, and correlated it with earnings surprises to predict stock movements
+
+## stack i reach for
+Python · Rust (learning) · SQL · Git
+
+## find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnoor-sharma/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:purnoor.sharma@utexas.edu)
