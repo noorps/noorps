@@ -4,9 +4,9 @@
 Like, any data. 
 
 ## What I'm working on (currently) 
-- 🤖 **auto job applier** — tired of clicking Apply 500 times, so i'm automating it  
-- 🦀 **toy OS kernel in Rust** — learning low-level from absolute zero  
-- 📍 **UT study spot tracker** — real-time map of open spots on campus
+- **auto job applier** — tired of clicking Apply 500 times, so i'm automating it  
+- **toy OS kernel in Rust** — learning low-level from absolute zero
+- **UT study spot tracker** — real-time map of open spots on campus
 
 ## What I've built
 - 📊 [glassdoor-sentiment-alpha](https://github.com/noorps/glassdoor-sentiment-alpha) — scraped Glassdoor reviews, ran NLP sentiment analysis, and correlated it with earnings surprises to predict stock movements
