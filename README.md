@@ -1,16 +1,17 @@
-# hey, i'm purnoor!
+Hi, I'm purnoor!
 
-# i'm a CS student at UT Austin that likes connecting data to stories
+I'm a CS student at UT Austin that likes connecting data to stories. 
+Like, any data. 
 
-## what i'm working on
+## What I'm working on (currently) 
 - 🤖 **auto job applier** — tired of clicking Apply 500 times, so i'm automating it  
 - 🦀 **toy OS kernel in Rust** — learning low-level from absolute zero  
 - 📍 **UT study spot tracker** — real-time map of open spots on campus
 
-## what i've built
+##What I've built
 - 📊 [glassdoor-sentiment-alpha](https://github.com/noorps/glassdoor-sentiment-alpha) — scraped Glassdoor reviews, ran NLP sentiment analysis, and correlated it with earnings surprises to predict stock movements
 
-## stack i reach for
+##Stack I reach for
 Python · Rust (learning) · SQL · Git
 
 ## find me
