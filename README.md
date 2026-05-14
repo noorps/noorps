@@ -5,7 +5,7 @@ and someone who likes matcha.
 caramel frappes. 
 sweet treats. the works.
 
-## what I'm working on (currently) 
+## what I'm working on (currently)
 - **project resolve** - a startup software that allows normal people to crowd-investigate cold cases.
 - **toy OS kernel in Rust** — learning low-level from absolute zero.
 - **ut study spot tracker** — real-time map of open spots on campus with crowd-sourced data.
