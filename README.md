@@ -1,7 +1,7 @@
-<h1 align="center">𓆝 𓆟 𓆞 hi, i'm purnoor! 🍵 𓆞 𓆟 𓆝</h1>
+<h1 align="center">🍵 𓆝 𓆟 𓆞 hi, i'm purnoor! 𓆞 𓆟 𓆝 🍵</h1>
 
 <p align="center">
-  cs @ ut austin &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
+  cs @ ut austin 𓆝 &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
 </p>
 
 <p align="center">
@@ -16,26 +16,26 @@ a cs student at ut austin (minor in data science + business) who likes connectin
 
 and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
-### what i'm working on! (currently)
+### 𓆝 what i'm working on! (currently)
 
 - **ai vehicle authorization system** @ enterprise mobility: keeping financial penalties off 9,500+ branch locations
 - **diagnostic vlm**: a 3d vision-language model mapping health records to ct scans for 5-year disease prediction
-- swimming deeper into low-level systems + distributed infra
+- swimming deeper into low-level systems + distributed infra 𓆞
 
-### what i've built! (and tinkering with)
+### 𓆟 what i've built! (and tinkering with)
 
-- **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
-- **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
-- **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
+- 𓆝 **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
+- 𓆟 **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
+- 𓆞 **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
 
-### where i've swum (so far)
+### 𓆞 where i've swum (so far)
 
-- **google**, incoming swe intern (break through tech), summer 2026
+- **google**, incoming swe intern (break through tech), summer 2026 𓆝
 - **afterquery (yc w25)**, ai data engineering intern: benchmarked generative ai tool calls across 10+ domains at 2m+ user scale
 - **ut austin cs dept**, undergrad researcher: debugged distributed pipelines on 10m+ weather records for nasa + txson climate models
 - **ut austin fri**, robotics researcher: built a ros2 system in c++ turning live asl gestures into physical robot motion
 
-### stack i reach for!
+### 𓆝 stack i reach for!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -51,7 +51,7 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### my github stats
+### 𓆟 my github stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=purnoor-sharma&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
@@ -60,8 +60,8 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-### find me!
+### 𓆞 find me!
 
-- linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
-- email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
-- github: [@purnoor-sharma](https://github.com/purnoor-sharma)
+- 𓆝 linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
+- 𓆟 email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
+- 𓆞 github: [@purnoor-sharma](https://github.com/purnoor-sharma)
