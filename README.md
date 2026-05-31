@@ -1,4 +1,4 @@
-<h1 align="center">🍵 𓆝 𓆟 𓆞 hi, i'm purnoor! 𓆞 𓆟 𓆝 🍵</h1>
+<h1 align="center">𓆝 𓆟 𓆞🍵hi, i'm purnoor!🍵𓆞 𓆟 𓆝 </h1>
 
 <p align="center">
   cs @ ut austin 𓆝 &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
