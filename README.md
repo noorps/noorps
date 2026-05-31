@@ -1,4 +1,4 @@
-<h1 align="center">🍵 𓆝 𓆟 𓆞 hi, i'm purnoor! 𓆞 𓆟 𓆝 🍵</h1>
+<h1 align="center"> 𓆝 𓆟 𓆞 🍵 hi, i'm purnoor! 🍵 𓆞 𓆟 𓆝 </h1>
 
 <p align="center">
   cs @ ut austin 𓆝 &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
@@ -18,7 +18,7 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
 ### 𓆝 experience (where i've swum so far)
 
-- **google**, incoming swe intern (break through tech), summer 2026 𓆞
+- **google**, incoming swe intern (break through tech), summer 2026! 
 - **enterprise mobility**, technical pm intern: architecting an ai vehicle authorization system across 9,500+ branch locations
 - **afterquery (yc w25)**, ai data engineering intern: benchmarked generative ai tool calls across 10+ domains at 2m+ user scale
 - **ut austin cs dept**, undergrad researcher: debugged distributed pipelines on 10m+ weather records for nasa + txson climate models
@@ -31,9 +31,9 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
 ### 𓆞 what i've built! (and tinkering with)
 
-- 𓆝 **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
-- 𓆟 **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
-- 𓆞 **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
+- **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
+- **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
+- **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
 
 ### 𓆝 stack i reach for!
 
