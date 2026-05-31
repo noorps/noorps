@@ -1,4 +1,4 @@
-<h1 align="center">𓆝 𓆟 𓆞🍵hi, i'm purnoor!🍵𓆞 𓆟 𓆝 </h1>
+<h1 align="center">🍵 𓆝 𓆟 𓆞 hi, i'm purnoor! 𓆞 𓆟 𓆝 🍵</h1>
 
 <p align="center">
   cs @ ut austin 𓆝 &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
@@ -16,24 +16,24 @@ a cs student at ut austin (minor in data science + business) who likes connectin
 
 and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
-### 𓆝 what i'm working on! (currently)
+### 𓆝 experience (where i've swum so far)
 
-- **ai vehicle authorization system** @ enterprise mobility: keeping financial penalties off 9,500+ branch locations
-- **diagnostic vlm**: a 3d vision-language model mapping health records to ct scans for 5-year disease prediction
-- swimming deeper into low-level systems + distributed infra 𓆞
+- **google**, incoming swe intern (break through tech), summer 2026 𓆞
+- **enterprise mobility**, technical pm intern: architecting an ai vehicle authorization system across 9,500+ branch locations
+- **afterquery (yc w25)**, ai data engineering intern: benchmarked generative ai tool calls across 10+ domains at 2m+ user scale
+- **ut austin cs dept**, undergrad researcher: debugged distributed pipelines on 10m+ weather records for nasa + txson climate models
+- **ut austin fri**, robotics researcher: built a ros2 system in c++ turning live asl gestures into physical robot motion
 
-### 𓆟 what i've built! (and tinkering with)
+### 𓆟 what i'm working on! (currently)
+
+- diving deeper into low-level systems + distributed infra
+- always hunting for weird datasets to turn into stories 𓆞
+
+### 𓆞 what i've built! (and tinkering with)
 
 - 𓆝 **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
 - 𓆟 **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
 - 𓆞 **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
-
-### 𓆞 where i've swum (so far)
-
-- **google**, incoming swe intern (break through tech), summer 2026 𓆝
-- **afterquery (yc w25)**, ai data engineering intern: benchmarked generative ai tool calls across 10+ domains at 2m+ user scale
-- **ut austin cs dept**, undergrad researcher: debugged distributed pipelines on 10m+ weather records for nasa + txson climate models
-- **ut austin fri**, robotics researcher: built a ros2 system in c++ turning live asl gestures into physical robot motion
 
 ### 𓆝 stack i reach for!
 
@@ -51,11 +51,9 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-### 𓆞 find me!
+### 𓆟 find me!
 
 - 𓆝 linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
 - 𓆟 email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
