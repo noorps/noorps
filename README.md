@@ -12,7 +12,7 @@
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-a cs student at ut austin (minor in data science + business) who likes connecting data to weird, unexpected stories.
+i like finding pain points across businesses, research, and people's everyday lives, then pinpointing solutions with data, machine learning, and ai.
 
 and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
