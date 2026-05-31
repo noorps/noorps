@@ -1,7 +1,7 @@
-<h1 align="center">🐟 🐠 🐡 hi, i'm purnoor! 🐡 🐠 🐟</h1>
+<h1 align="center">𓆝 𓆟 𓆞 hi, i'm purnoor! 🍵 𓆞 𓆟 𓆝</h1>
 
 <p align="center">
-  cs @ ut austin 🤘 &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
+  cs @ ut austin &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
 </p>
 
 <p align="center">
@@ -10,32 +10,32 @@
   <a href="https://github.com/purnoor-sharma"><img src="https://komarev.com/ghpvc/?username=purnoor-sharma&style=flat&color=1e90ff&label=profile+views" alt="profile views" /></a>
 </p>
 
-<p align="center">🐟 ｡ﾟ⋆ 🐠 ⋆ﾟ｡ 🫧 ｡ﾟ⋆ 🐡 ⋆ﾟ｡ 🐟</p>
+<p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
 a cs student at ut austin (minor in data science + business) who likes connecting data to weird, unexpected stories.
 
-and someone who runs on matcha 🍵, caramel frappes, and sweet treats. the works.
+and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
-### 🎣 what i'm working on! (currently)
+### what i'm working on! (currently)
 
 - **ai vehicle authorization system** @ enterprise mobility: keeping financial penalties off 9,500+ branch locations
 - **diagnostic vlm**: a 3d vision-language model mapping health records to ct scans for 5-year disease prediction
-- swimming deeper into low-level systems + distributed infra 🐠
+- swimming deeper into low-level systems + distributed infra
 
-### 🐠 what i've built! (and tinkering with)
+### what i've built! (and tinkering with)
 
-- 🩺 **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
-- 📊 **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
-- 🔌 **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
+- **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
+- **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
+- **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
 
-### 🐡 where i've swum (so far)
+### where i've swum (so far)
 
-- **google**, incoming swe intern (break through tech), summer 2026 🎉
+- **google**, incoming swe intern (break through tech), summer 2026
 - **afterquery (yc w25)**, ai data engineering intern: benchmarked generative ai tool calls across 10+ domains at 2m+ user scale
 - **ut austin cs dept**, undergrad researcher: debugged distributed pipelines on 10m+ weather records for nasa + txson climate models
 - **ut austin fri**, robotics researcher: built a ros2 system in c++ turning live asl gestures into physical robot motion
 
-### 🦈 stack i reach for!
+### stack i reach for!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -51,17 +51,17 @@ and someone who runs on matcha 🍵, caramel frappes, and sweet treats. the work
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📈 my github stats
+### my github stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=purnoor-sharma&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnoor-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
-<p align="center">🐟 ｡ﾟ⋆ 🐠 ⋆ﾟ｡ 🫧 ｡ﾟ⋆ 🐡 ⋆ﾟ｡ 🐟</p>
+<p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-### 🌊 find me!
+### find me!
 
-- 💼 linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
-- 📧 email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
-- 🐙 github: [@purnoor-sharma](https://github.com/purnoor-sharma)
+- linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
+- email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
+- github: [@purnoor-sharma](https://github.com/purnoor-sharma)
