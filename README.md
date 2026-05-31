@@ -51,12 +51,7 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 𓆟 my github stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=purnoor-sharma&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnoor-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
