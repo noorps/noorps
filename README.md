@@ -1,7 +1,7 @@
 <h1 align="center"> 𓆝 𓆟 𓆞 🍵 hi, i'm purnoor! 🍵 𓆞 𓆟 𓆝 </h1>
 
 <p align="center">
-  cs @ ut austin 𓆝 &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
+  cs @ ut austin &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ a cs student at ut austin (minor in data science + business) who likes connectin
 
 and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
-### 𓆝 experience (where i've swum so far)
+### 𓆝 experience! (where i've swum so far)
 
 - **google**, incoming swe intern (break through tech), summer 2026! 
 - **enterprise mobility**, technical pm intern: architecting an ai vehicle authorization system across 9,500+ branch locations
