@@ -57,4 +57,4 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
 - 𓆝 linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
 - 𓆟 email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
-- 𓆞 github: [@purnoor-sharma](https://github.com/purnoor-sharma)
+- 𓆞 github: [@purnoor-sharma](https://github.com/noorps)
