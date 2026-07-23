@@ -1,13 +1,13 @@
 <h1 align="center"> 𓆝 𓆟 𓆞 🍵 hi, i'm purnoor! 🍵 𓆞 𓆟 𓆝 </h1>
 
 <p align="center">
-  cs @ ut austin &nbsp;·&nbsp; incoming swe @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
+  cs @ ut austin &nbsp;·&nbsp; swe intern @ google &nbsp;·&nbsp; i turn data into weird, unexpected stories
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/purnoor-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:purnoor.sharma@utexas.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/purnoor-sharma"><img src="https://komarev.com/ghpvc/?username=purnoor-sharma&style=flat&color=1e90ff&label=profile+views" alt="profile views" /></a>
+  <a href="https://github.com/noorps"><img src="https://komarev.com/ghpvc/?username=noorps&style=flat&color=1e90ff&label=profile+views" alt="profile views" /></a>
 </p>
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
@@ -18,7 +18,7 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
 ### 𓆝 experience! (where i've swum so far)
 
-- **google**, incoming swe intern, july 2026! 
+- **google**, swe intern
 - **enterprise mobility**, technical pm intern: architecting an ai vehicle authorization system across 9,500+ branch locations
 - **afterquery (yc w25)**, ai data engineering intern: benchmarked generative ai tool calls across 10+ domains at 2m+ user scale
 - **ut austin cs dept**, undergrad researcher: debugged distributed pipelines on 10m+ weather records for nasa + txson climate models
@@ -32,8 +32,8 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 ### 𓆞 what i've built! (and tinkering with)
 
 - **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
-- **glassdoor alpha**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
-- **reposter**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
+- **[glassdoor alpha](https://github.com/noorps/glassdoor-sentiment-alpha)**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
+- **[reposter](https://github.com/noorps/reposter)**: a chrome extension that reverse-engineers facebook's lexical editor to inject text where standard dom methods fail. full stack: supabase auth, postgres rls, stripe webhooks.
 
 ### 𓆝 stack i reach for!
 
@@ -57,4 +57,4 @@ and someone who runs on matcha, caramel frappes, and sweet treats. the works.
 
 - 𓆝 linkedin: [in/purnoor-sharma](https://www.linkedin.com/in/purnoor-sharma)
 - 𓆟 email: [purnoor.sharma@utexas.edu](mailto:purnoor.sharma@utexas.edu)
-- 𓆞 github: [@purnoor-sharma](https://github.com/noorps)
+- 𓆞 github: [@noorps](https://github.com/noorps)
