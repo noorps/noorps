@@ -12,7 +12,9 @@
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-i find pain points across businesses, research, and ESPECIALLY people's everyday lives, then pinpoint solutions with data, machine learning, and ai. my goal as a computer scientist is to make software and hardware IMPROVE people's physical and mental health, not just make a workflow more efficient. 
+i find pain points across businesses, research, and people's everyday lives, then pinpoint solutions with data, machine learning, and ai.
+
+my goal as a computer scientist is to make software and hardware IMPROVE people's physical and mental health, not just make a workflow more efficient. 
 
 i'm also someone who runs on matcha, caramel frappes, sweet treats, and meeting new people. the works.
 
