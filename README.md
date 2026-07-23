@@ -12,9 +12,9 @@
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-i like finding pain points across businesses, research, and people's everyday lives, then pinpointing solutions with data, machine learning, and ai.
+i find pain points across businesses, research, and ESPECIALLY people's everyday lives, then pinpoint solutions with data, machine learning, and ai. my goal as a computer scientist is to make software and hardware IMPROVE people's physical and mental health, not just make a workflow more efficient. 
 
-and someone who runs on matcha, caramel frappes, and sweet treats. the works.
+i'm also someone who runs on matcha, caramel frappes, sweet treats, and meeting new people. the works.
 
 ### 𓆝 experience! (where i've swum so far)
 
