@@ -12,18 +12,16 @@
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-i find pain points across businesses, research, and people's everyday lives, then pinpoint solutions with data, machine learning, and ai.
+most of my projects start with me getting annoyed by a repetitive process or noticing that a dataset is saying something nobody is looking for. lately, that has meant building telemetry infrastructure, digging through employee reviews for market signals, and automating the advertising work i used to repeat as a tutor.
 
-my goal as a computer scientist is to make software and hardware IMPROVE people's physical and mental health, not just make a workflow more efficient. 
-
-i'm also someone who runs on matcha, caramel frappes, sweet treats, and meeting new people. the works.
+i want to build software and hardware that improves people's physical and mental health, not just makes another workflow slightly faster. i also run on matcha, caramel frappes, sweet treats, and meeting new people. the works.
 
 ### 𓆟 the telemetry system i'm building!
 
-- **[pulsegrid](https://github.com/noorps/pulsegrid)** handles the front half: accepting multi-tenant device readings, preserving per-device order across 6 kafka partitions, retrying failures, and exposing prometheus metrics. its public github actions benchmark accepted 10,000/10,000 events at 1,003 events/sec with 106.6 ms p95 request latency.
-- **[fleetlake](https://github.com/noorps/fleetlake)** takes over after kafka: spark handles event-time windows, late data, and duplicates before serving raw history through trino and fault search through elasticsearch. its reproducible benchmark processed 200,000 simulated events at a median 73,019 events/sec.
+- **[pulsegrid](https://github.com/noorps/pulsegrid)** accepted 10,000/10,000 simulated device readings at 1,003 events/sec with 106.6 ms p95 request latency. it handles multi-tenant ingestion, preserves per-device order across 6 kafka partitions, retries failures, and exposes prometheus metrics.
+- **[fleetlake](https://github.com/noorps/fleetlake)** processed 200,000 simulated events at a median 73,019 events/sec, then used spark to handle late data and duplicates before serving raw history through trino and fault search through elasticsearch.
 
-they are separate projects because ingestion and analytics fail differently. pulsegrid is about request latency, ordering, and backpressure. fleetlake is about replay safety, state, storage, and query access.
+pulsegrid handles the live ingestion problems: request latency, ordering, retries, and backpressure. fleetlake handles what happens after kafka: replay safety, stateful processing, storage, and querying. together, they model the path from a vehicle reading to something an engineer can investigate.
 
 ### 𓆝 experience! (where i've swum so far)
 
@@ -35,9 +33,11 @@ they are separate projects because ingestion and analytics fail differently. pul
 
 ### 𓆞 what i've built! (and tinkering with)
 
-- **diagnostic vlm**: a 3d vision-language model for 5-year disease prediction, mapping health records to ct scans. benchmarked on 1,000+ abdominal ct scans (plus 70 adversarial edge cases).
-- **[glassdoor alpha](https://github.com/noorps/glassdoor-sentiment-alpha)**: a predictive model on 17k+ glassdoor reviews, turning employee sentiment into financial signals to flag early stock movements (vader pipeline + rolling averages).
-- **[reposter](https://github.com/noorps/reposter)**: a chrome extension that supported 1,000+ paying users through an older private listing that is no longer available. the current public store listing is separate. full stack: chrome's debugger api, supabase auth, postgres rls, and stripe webhooks.
+- **[reposter](https://github.com/noorps/reposter)**: cut out the repetitive part of advertising across facebook groups with a chrome extension built around the debugger api, supabase auth, postgres rls, and stripe webhooks. an older private listing supported 1,000+ paying users; the current public listing is separate.
+- **[trialscout](https://github.com/noorps/trialscout)**: turns a plain-english patient description into ranked recruiting clinical trials using cohere embed, rerank, and command.
+- **[glassdoor alpha](https://github.com/noorps/glassdoor-sentiment-alpha)**: explored 17k+ employee reviews as an alternative financial signal. in the apple case study, monthly senior-management ratings and stock price had a 0.376 correlation, an exploratory result rather than a trading claim.
+- **[legacyhub](https://github.com/noorps/LegacyHub)**: turns scattered student-organization documents, vendor history, and decisions into cited handoff answers using copilot studio, power automate, and sharepoint.
+- **diagnostic vlm**: mapped longitudinal health records to 1,000+ abdominal ct scans for 5-year disease prediction, then tested 70 adversarial edge cases.
 
 ### 𓆝 stack i reach for!
 
