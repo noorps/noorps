@@ -12,9 +12,11 @@
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-most of my projects start with me getting annoyed by a repetitive process or noticing that a dataset is saying something nobody is looking for. lately, that has meant building telemetry infrastructure, digging through employee reviews for market signals, and automating the advertising work i used to repeat as a tutor.
+i find pain points across businesses, research, and people's everyday lives, then pinpoint solutions with data, machine learning, and ai.
 
-i want to build software and hardware that improves people's physical and mental health, not just makes another workflow slightly faster. i also run on matcha, caramel frappes, sweet treats, and meeting new people. the works.
+my goal as a computer scientist is to make software and hardware IMPROVE people's physical and mental health, not just make a workflow more efficient.
+
+i'm also someone who runs on matcha, caramel frappes, sweet treats, and meeting new people. the works.
 
 ### 𓆟 the telemetry system i'm building!
 
