@@ -35,7 +35,7 @@ pulsegrid handles the live ingestion problems: request latency, ordering, retrie
 
 ### 𓆞 what i've built! (and tinkering with)
 
-- **[drift](https://github.com/noorps/drift)**: measured whether the same trained model gives the same answer twice, then ran it through eager pytorch, torch.compile and tensorrt at fp32 and fp16 on a t4. no fp32 path flipped a single prediction across 10,000 images, fp16 flipped 2, and tensorrt was 2.2x faster than eager at batch 1 but the slowest option at batch 128.
+- **[drift](https://github.com/noorps/drift)**: measured whether the same trained model gives the same answer twice, then ran it through eager pytorch, torch.compile and tensorrt at fp32 and fp16 on a t4. no fp32 path flipped a single prediction across 10,000 images, fp16 flipped up to 6, and fp16 tensorrt was the fastest thing measured, 5x eager at batch 1 and 5.8x at batch 128.
 - **[merlin edge case audit](https://github.com/noorps/merlin-edge-case-audit)**: gave stanford's merlin, a ct vision-language model, 14 inputs it was never meant to see. 12 behaved. blank text matched the scan more closely than a correct description (0.2856 vs 0.1849), and an all-zeros scan still produced normal embeddings instead of being rejected.
 - **[reposter](https://github.com/noorps/reposter)**: cut out the repetitive part of advertising across facebook groups with a chrome extension built around the debugger api, supabase auth, postgres rls, and stripe webhooks. an older private listing supported 1,000+ paying users; the current public listing is separate.
 - **[trialscout](https://github.com/noorps/trialscout)**: turns a plain-english patient description into ranked recruiting clinical trials using cohere embed, rerank, and command.
